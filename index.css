@@ -1,0 +1,16 @@
+.container1 {
+    background-image: url("source/img/home.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 85.3vh;
+}
+.box1 {
+    background-color: #BFD2BF;
+    width: 80%;
+    overflow: auto;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
